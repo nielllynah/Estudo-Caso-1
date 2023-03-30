@@ -59,8 +59,9 @@ Código do HTML:
  * CSS3
 
 ## Colaboradores 
+* <a href="https://github.com/guiirios">Guilherme Rios</a>
 * <a href="https://github.com/oigao">Igor Alves</a>
-* <a href=""></a>
+
 
 
 
