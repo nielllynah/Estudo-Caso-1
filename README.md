@@ -28,7 +28,7 @@ Use esse comando no terminal:
 npm install react
 ```
 
-Código do HTML
+Código do HTML:
 ```
 <!DOCTYPE html>
 <html lang="pt-br">
@@ -36,6 +36,7 @@ Código do HTML
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <link rel="stylesheet" href="style.css">
     <title>Exagon</title>
     <!-- Exagon é o nome da empresa, estamos usando o title para colocar o titulo do site que fica no topo -->
 </head>
@@ -50,7 +51,7 @@ Código do HTML
 ```
 
 ## Funcionalidades
- Termos a capacidade de olhar produtos esuas imagens.
+ Termos a capacidade de olhar produtos e suas imagens.
 
 ## Técnologias usadas:
  * HTML5
