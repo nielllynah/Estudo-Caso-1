@@ -20,7 +20,10 @@ Use esse comando no terminal:
 npm install react
 ```
 
+
+
 ```
+ <h1>Código usado no HTML</h1>
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
@@ -39,3 +42,5 @@ npm install react
 </body>
 </html>
 ```
+
+
