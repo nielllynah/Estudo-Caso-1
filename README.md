@@ -52,7 +52,7 @@ Código do HTML:
 </html>
 ```
 
-## Funcionalidades
+## Funcionalidades:
  Termos a capacidade de olhar produtos e suas imagens.
 
 ## Técnologias usadas:
@@ -60,10 +60,10 @@ Código do HTML:
  * JavaScript
  * CSS3
 
-## Licença 
+## Licença:
 * Código aberto
 
-## Colaboradores 
+## Colaboradores: 
 * <a href="https://github.com/guiirios">Guilherme Rios</a>
 * <a href="https://github.com/oigao">Igor Alves</a>
 
