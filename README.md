@@ -4,7 +4,8 @@ Esse é um projeto de uma página de produtos técnologicos, onde possuirá os p
 
 Sistema de site de vendas.
 
-> Status do projeto: Em desenvolvimento
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+
 
 
 ![default_765x625](https://user-images.githubusercontent.com/110192250/228720545-0f37c5e0-10db-427d-9e6b-9ae7b6a0d7ec.png)
