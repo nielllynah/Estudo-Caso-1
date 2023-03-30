@@ -5,7 +5,8 @@ Esse é um projeto de uma página de produtos técnologicos, onde possuirá os p
 Sistema de site de vendas.
 
 <p align="center">
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+<img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
+</p>
 
 
 
