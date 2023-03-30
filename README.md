@@ -1,5 +1,5 @@
-# Estudo-Caso
-Estudando o estudo de caso
+# Página-de-Vendas
+Essa é a página principal da empresa, onde colocaremos os principais produtos, a barra de pesquisa para que os consumidores procurem o produto que deles desejam, é uma página simples. Até esse momento, não temos muitas coisas, mas a página irá se expandir.
 
 
 Sistema de site de vendas.
