@@ -14,6 +14,8 @@ Para rodar em seu computador, é necessario entrar no terminal !
 * Menu do VS Code: Selecione “Ver” > “Terminal”. Em inglês: View > Terminal menu command.
 * Menu do VS Code: Selecione “Terminal” > “Novo Terminal”. Em inglês: Terminal > New Terminal.
 
+
+Use esse comando no terminal:
 ```
 npm install react
 ```
