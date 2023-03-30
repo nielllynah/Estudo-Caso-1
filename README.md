@@ -46,6 +46,8 @@ Código do HTML:
     Voluptatem laborum repudiandae amet reiciendis similique harum, provident natus praesentium. Molestias mollitia fugit sit minus eligendi dignissimos perferendis laboriosam facilis, illum magni nostrum tenetur similique voluptatum delectus magnam blanditiis asperiores.</p>
     <h2>Computadores</h2>
     <a href="#"><img src="img/computador1.png" alt="foto de um computador."></a>
+    <h2>Teclados</h2>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente nulla tenetur ipsam error accusamus fugiat rerum, consequuntur illum non, provident illo.</p>
 </body>
 </html>
 ```
