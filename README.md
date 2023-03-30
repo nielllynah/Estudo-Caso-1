@@ -1,5 +1,5 @@
 # Página-de-Vendas
-Essa é a página principal da empresa, onde colocaremos os principais produtos, a barra de pesquisa para que os consumidores procurem o produto que deles desejam, é uma página simples. Até esse momento, não temos muitas coisas, mas a página irá se expandir.
+Esse é um projeto de uma página de produtos técnologicos, onde possuirá os produtos, alguns dividos por categorias, como computadores, fones, mouses, teclados e etc.
 
 
 Sistema de site de vendas.
@@ -47,6 +47,9 @@ npm install react
 </body>
 </html>
 ```
+
+## Funcionalidades
+ Termos a capacidade de olhar produtos esuas imagens.
 
 ## Técnologias usadas:
  * HTML5
