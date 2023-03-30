@@ -6,6 +6,11 @@ Sistema de site de vendas.
 
 > Status do projeto: Em desenvolvimento
 
+
+![default_765x625](https://user-images.githubusercontent.com/110192250/228720545-0f37c5e0-10db-427d-9e6b-9ae7b6a0d7ec.png)
+
+
+
 Para rodar em seu computador, é necessario entrar no terminal !
 
 ## Para entrar no terminal, faça:              
@@ -42,5 +47,16 @@ npm install react
 </body>
 </html>
 ```
+
+## Técnologias usadas:
+ * HTML5
+ * JavaScript
+ * CSS3
+
+## Colaboradores 
+* <a href="https://github.com/oigao">Igor Alves</a>
+* <a href=""></a>
+
+
 
 
